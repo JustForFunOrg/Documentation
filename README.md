@@ -13,4 +13,4 @@
 - [SwiftLint](https://github.com/realm/SwiftLint)
   - default set of rules [here](https://github.com/JustForFunOrg/Documentation/blob/master/.swiftlint.yml)
 
-- Swift codebase: https://github.com/apple/swift
+- [Swift codebase](https://github.com/apple/swift)
